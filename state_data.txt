@@ -1,0 +1,7 @@
+************* Module state_data
+Lab 3 - Lists and Sets/state_data.py:15:0: E0401: Unable to import 'PIL' (import-error)
+Lab 3 - Lists and Sets/state_data.py:16:0: E0401: Unable to import 'matplotlib.pyplot' (import-error)
+
+------------------------------------------------------------------
+Your code has been rated at 8.80/10 (previous run: 8.80/10, +0.00)
+
